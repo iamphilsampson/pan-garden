@@ -120,7 +120,7 @@ a.back.top-back {
   color: var(--muted);
   font-size: 13.5px;
 }
-a.back.top-back::before { content: "\2190\00a0"; }
+a.back.top-back::before { content: "← "; }
 a.back.top-back:hover { color: var(--green); }
 
 .badge {
