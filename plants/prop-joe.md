@@ -8,6 +8,9 @@ pot_target_cm: 30
 location: null
 order: 1
 photos:
+  - file: prop-joe-moss-top-layer.jpg
+    date: 2026-08-21
+    note: "Finished. Live moss laid over the whole surface, twine on the pole"
   - file: prop-joe-repotted-30cm.jpg
     date: 2026-08-21
     note: "In the 30cm terracotta. Chunky mix, bark and perlite and Seramis all visible"
@@ -20,7 +23,7 @@ photos:
 status: outstanding
 outstanding:
   - text: "**Wrap the pole in live moss** and bind it on with soft twine. Bare coir dries fast and aerial roots grip it poorly"
-  - text: "**Lay a moss layer over the surface roots**, leaving a gap around the trunk. Most of his aerial roots are sitting on top of the compost rather than in it, and on the surface they stay corky"
+  - text: "**Tuck the aerial roots still sitting on top of the moss underneath it.** Lift the moss, slide them under, press it back. On top of the moss they are still in air"
   - text: "Tie him in at three heights with soft ties. Do not bend the stem, guide the new growth instead"
   - text: "**No liquid feed until early October**, four to six weeks after root work. The worm castings in the mix carry him until then"
     due: 2026-10-05
@@ -34,7 +37,9 @@ log:
   - date: 2026-08-21
     note: "**30cm pot bought**, and it is a tall one, so more bare trunk goes under the soil line than originally planned"
   - date: 2026-08-21
-    note: "**Repotted into the 30cm terracotta.** Chunky aroid mix, 2 to 3cm of gravel in the base for ballast, bare trunk buried, coir pole set in against the stem"
+    note: "**Repotted into the 30cm terracotta.** Chunky aroid mix with worm castings through it, 2 to 3cm of gravel in the base for ballast, bare trunk buried, coir pole set in against the stem"
+  - date: 2026-08-21
+    note: "**Live moss layer laid over the whole surface**, and twine on the pole. The repot is finished"
 ---
 
 50 to 60cm of bare trunk, leaning at 45 degrees, dozens of aerial roots dangling in air, and a pole too short to even touch him. The one plant in the collection that genuinely needed a bigger pot. Long bare trunk, thick aerial roots doing nothing in the air, and compost so fine that water runs straight past it rather than soaking in. That is the watering problem, not a watering habit.
