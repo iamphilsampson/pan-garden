@@ -17,7 +17,7 @@ outstanding:
   - text: "Fit the Strelitzia's freed coir pole as a short starter support"
 log:
   - date: 2026-08-21
-    note: "**Top shuffle done**, and fed. Pulled out properly to check underneath first: **nothing poking out and the roots in good shape, not matted**, which confirms staying in the 16cm was right"
+    note: "**Full soil reshuffle completed**, and fed. Pulled out properly to check underneath first: **nothing poking out and the roots in good shape, not matted**, which confirms staying in the 16cm was right"
   - date: 2026-08-05
     note: "Measured at **16cm, not 13**. The 15cm purchase was cancelled and the pot cascade that depended on it is dead"
   - date: 2026-08-05

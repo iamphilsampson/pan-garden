@@ -16,12 +16,14 @@ photos:
     date: 2026-08-21
 status: outstanding
 outstanding:
-  - text: "**Take him out and look before deciding anything.** If the ball is like the small one, healthy and not matted, refresh in the same pot. Only use a bigger pot if it is genuinely tight and circling"
-  - text: "Either way, tease the outer roots loose, trim anything circling tightly, and put him back with fresh mix"
   - text: "Keep the metal rod. It does the job, no new pole needed"
   - text: "**Settle the identification.** Phil believes both variegated plants are Monstera from the same cutting. The leaf and petiole evidence says variegated Epipremnum in adult form. The geniculum test decides it, see the notes"
   - text: "General mix: 3 parts coir or peat, 1 perlite, 1 orchid bark, plus granular or 15% worm castings. All of it is already in the house"
 log:
+  - date: 2026-08-21
+    note: "**Full soil reshuffle completed.** Which pot he ended up in is not recorded yet, ask Phil"
+  - date: 2026-08-21
+    note: "**No geniculum on the adult leaves.** On a fenestrated Monstera leaf that joint would be obvious, so the evidence now points firmly to variegated Epipremnum"
   - date: 2026-08-21
     note: "**The 21cm pot in hand is steeply tapered and narrow at the base**, so the usable volume may be little more than the 18cm. Repot on hold pending a volume check"
   - date: 2026-08-05
