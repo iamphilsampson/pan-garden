@@ -6,19 +6,25 @@ aka: null
 pot_cm: 25
 pot_target_cm: null
 location: null
-order: 3
+order: 2
 photos:
+  - file: philipos-after-topdress.jpg
+    date: 2026-08-21
+    note: "Top-dressed and tied in. Level brought back up, plenty of perlite and bark in the fresh mix"
+  - file: philipos-after-topdress-tied-in.jpg
+    date: 2026-08-21
+    note: "Close up. Tied in at four points, stem properly supported"
   - file: philipos-monstera-whole.jpg
     date: 2026-08-14
   - file: philipos-monstera-base.jpg
     date: 2026-08-14
-status: outstanding
+status: done
 outstanding:
-  - text: "**Top-dress, and this can happen today.** Scrape the top 3 to 5cm off, replace with fresh mix plus worm castings, bury that loose aerial root, bring the level back up to the rim. **No repot, no root pruning**"
   - text: "Taller pole. His is a stub the plant passed years ago"
     blocked_by: "pole extension sections"
-  - text: "Wrap the pole in live moss and tuck the loose aerial roots into it, plus a moss layer on the soil surface"
 log:
+  - date: 2026-08-21
+    note: "**Top-dressed** with fresh mix and the level brought back up. Tied in at four points"
   - date: 2026-08-21
     note: "**Fed.** First feed in over a year"
   - date: 2026-08-05

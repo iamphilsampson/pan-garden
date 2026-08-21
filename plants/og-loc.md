@@ -8,20 +8,32 @@ pot_target_cm: null
 location: null
 order: 1
 photos:
+  - file: og-loc-after-topdress-whole.jpg
+    date: 2026-08-21
+    note: "Out of the corner and holding his own leaves up. Leaning on the wall a little"
+  - file: og-loc-after-topdress-poles-tied.jpg
+    date: 2026-08-21
+    note: "Two coir poles lashed together, stem tied in at three heights"
+  - file: og-loc-after-topdress-moss-surface.jpg
+    date: 2026-08-21
+    note: "Fresh mix in and a moss layer over the surface"
   - file: og-loc-monstera-whole.jpg
     date: 2026-08-14
   - file: og-loc-monstera-top-down.jpg
     date: 2026-08-14
   - file: og-loc-monstera-pole.jpg
     date: 2026-08-14
-status: outstanding
+status: done
 outstanding:
-  - text: "**Move him out of that corner.** Free, takes a minute, and matters more than any stake"
-  - text: "**Top-dress, and this can happen today.** Fresh mix plus granular feed or worm cast. **No repot**, he has plenty of root room"
-  - text: "Extend the pole, and **drive a long bamboo cane down beside it and tie the two together**. His pole already leans at 45 degrees under the plant's weight"
+  - text: "Extend the pole properly, or anchor it with a long bamboo cane. The two lashed poles hold him for now but he is part propped on the wall"
     blocked_by: "pole extension sections and a bamboo cane"
-  - text: "Wrap the pole in live moss and tuck the loose aerial roots into it. Lay a moss layer on the soil surface too, leaving a gap around the stem"
 log:
+  - date: 2026-08-21
+    note: "**Moved out of the corner.** Petioles now going up and out instead of collapsing on the floor"
+  - date: 2026-08-21
+    note: "**Top-dressed** with fresh mix, and a moss layer laid over the surface"
+  - date: 2026-08-21
+    note: "**Two coir poles lashed together** and the stem tied in at three heights. Part propped on the wall"
   - date: 2026-08-21
     note: "**Fed.** First feed in over a year"
   - date: 2026-08-05

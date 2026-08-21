@@ -6,7 +6,7 @@ aka: null
 pot_cm: 9
 pot_target_cm: 10
 location: null
-order: 2
+order: 1
 photos:
   - file: string-of-hearts.jpg
     date: 2026-08-14

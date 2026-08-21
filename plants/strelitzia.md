@@ -6,7 +6,7 @@ aka: "Banana palm, which it is not"
 pot_cm: 24
 pot_target_cm: null
 location: "1.5m from the window"
-order: 1
+order: 3
 photos:
   - file: strelitzia-1.jpg
     date: 2026-08-14

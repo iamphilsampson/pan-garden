@@ -4,13 +4,16 @@ species: null
 status: outstanding
 outstanding:
   - text: "**Keep the feeding going.** Philipos and OG loc fed on 21 August. Still to do: Strelitzia, the avocado once it shoots, the three trailers, both variegated, and the Dracaena at half strength. **Not Prop Joe** until 5 October, and never the pine. Window shuts mid-September"
-  - text: "**Buy 6L of orchid bark.** The only thing still gating Prop Joe's repot. The 4L Westland is part bark and part Seramis, so it does not cover it, and the 30cm pot alone wants 6 to 7L at 40%"
-  - text: "Check the litres on the two bags of universal potting soil. **Under 30L combined, grab one more.** Prop Joe's 30cm takes 15 to 18L on its own, before four top-dressings"
+  - text: "Restock orchid bark when convenient. Not gating anything now Prop Joe is potted, but the big variegated repot wants about 1L and the monstera mixes are 40% bark"
+  - text: "Check what potting soil is left. Only about 6L still needed: roughly 4L for the big variegated repot, then a little each for the small variegated refresh and the string of hearts"
   - text: "Put a bucket or two out for rainwater. Free, and the surplus moss only stays alive on rainwater"
+  - text: "Decide what to do with the rest of the moss crate now the poles are not being wrapped. Surface layers and next February's air layer are the remaining uses"
   - text: "Rotate everything a quarter turn, then set a weekly repeating phone reminder. This is the habit that stops a repeat next August"
   - text: "Confirm the calendar reminder is set for Prop Joe's air layer"
     due: 2027-02-20
 log:
+  - date: 2026-08-21
+    note: "**Decision: not wrapping the poles in moss.** Phil's call, recorded deliberately. See the note below for what it costs"
   - date: 2026-08-21
     note: "**Feeding programme started**, a week later than it should have been. Philipos and OG loc fed"
   - date: 2026-08-14
@@ -28,8 +31,8 @@ log:
 The first shop is done, so this is what is genuinely left.
 
 - **Slow-release granular feed**, mixed through the new compost so the repot and the top-dressings keep going without you remembering
-- **1 x 30cm pot** for Prop Joe. Bought on 21 August, and it is a tall one
-- **6L orchid bark.** The last thing gating Prop Joe
+- ~~1 x 30cm pot for Prop Joe~~. Bought and planted on 21 August
+- **Orchid bark, small amount.** Nothing is gated on it now. About 1L for the big variegated repot
 - **1 x 21cm pot** for the big variegated pothos. Added 21 August, after the roots turned up out of the base
 - **1 full-height pole core for Prop Joe, plus 3 or 4 extension sections.** Take one of OG loc's poles with you to match the brand. If nothing matches, 25mm plastic pipe or a stout cane works, because you are wrapping it in moss anyway
 - **1 long bamboo cane** to anchor OG loc's pole
@@ -80,8 +83,8 @@ Coir rewets better, so use it for anything rot-prone. Peat holds more water, so 
 
 It arrived as live moss rather than dried sphagnum, which is better for most of what is needed here. Uses in order of value:
 
-- **Wrap it round the monstera poles.** Bind a layer around each existing coir pole with fishing line or soft twine. Bare coir dries fast and aerial roots grip it poorly. Moss they go into eagerly. Three monsteras, all with wasted aerial roots. This is the best use of it by a distance
-- **A moss layer on the monstera soil surfaces**, so the loose aerial roots on Philipos and OG loc root down into it instead of staying corky. Leave a gap around each stem
+- ~~**Wrap it round the monstera poles.**~~ **Deliberately skipped on 21 August.** It was the highest value use on paper, but the cost of skipping it is smaller than it looks. A pole's first job is support, and all three monsteras are now tied to bare coir and holding themselves up. What is lost is aerial roots converting on the pole itself, and that is partly recovered by the surface layers and by Prop Joe's buried trunk. It also removes a standing chore, pouring water down the pole at every watering, and this collection's whole history is jobs that got forgotten. Light is the limiting factor here, not aerial root conversion
+- **A moss layer on the monstera soil surfaces**, so the low aerial roots root down into it instead of staying corky. Leave a gap around each stem. Done on Prop Joe and OG loc. **Philipos has not had one**, and it is the cheapest way to catch his low roots
 - **Bulk out Prop Joe's mix.** Hand-torn moss is a legitimate aroid mix component and it covers the bark shortfall
 - **February's air layer** is now already paid for
 - **Keep the rest alive as stock.** Tray, bright indirect light, damp. Rainwater or filtered only, never tap, because the calcium in tap water kills it off. No feed. Pick out any seedlings germinating in it

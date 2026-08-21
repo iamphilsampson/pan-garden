@@ -6,7 +6,7 @@ aka: "Blue ivy, which it is not"
 pot_cm: 13
 pot_target_cm: null
 location: Bathroom
-order: 5
+order: 7
 photos:
   - file: bathroom-heartleaf-philodendron-1.jpg
     date: 2026-08-14

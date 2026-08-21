@@ -6,7 +6,7 @@ aka: null
 pot_cm: 11
 pot_target_cm: null
 location: null
-order: 2
+order: 4
 photos:
   - file: avocado-before-cutback.jpg
     date: 2026-08-14

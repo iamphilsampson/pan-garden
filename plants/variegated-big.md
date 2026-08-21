@@ -6,7 +6,7 @@ aka: null
 pot_cm: 18
 pot_target_cm: 21
 location: null
-order: 5
+order: 3
 photos:
   - file: variegated-big-pothos-whole-2.jpg
     date: 2026-08-21

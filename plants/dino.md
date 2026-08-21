@@ -6,7 +6,7 @@ aka: "Blue ivy, which it is not"
 pot_cm: 10
 pot_target_cm: null
 location: "The dino pot"
-order: 3
+order: 5
 photos:
   - file: dino-golden-pothos.jpg
     date: 2026-08-14

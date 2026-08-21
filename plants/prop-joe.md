@@ -25,7 +25,6 @@ photos:
     note: "Before. Bare trunk, aerial roots dangling in air"
 status: done
 outstanding:
-  - text: "**Wrap the pole in live moss** and bind it on with soft twine. Bare coir dries fast and aerial roots grip it poorly"
   - text: "**Tuck the aerial roots still sitting on top of the moss underneath it.** Lift the moss, slide them under, press it back. On top of the moss they are still in air"
   - text: "Tie him in at three heights with soft ties. Do not bend the stem, guide the new growth instead"
   - text: "**No liquid feed until early October**, four to six weeks after root work. The worm castings in the mix carry him until then"

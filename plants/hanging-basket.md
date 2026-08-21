@@ -6,7 +6,7 @@ aka: null
 pot_cm: null
 pot_target_cm: null
 location: Hanging
-order: 6
+order: 8
 photos:
   - file: hanging-basket-bald-centre.jpg
     date: 2026-08-14

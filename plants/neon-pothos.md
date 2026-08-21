@@ -6,7 +6,7 @@ aka: null
 pot_cm: 13
 pot_target_cm: null
 location: null
-order: 4
+order: 6
 photos:
   - file: neon-pothos.jpg
     date: 2026-08-14
