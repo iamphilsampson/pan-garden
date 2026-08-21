@@ -24,6 +24,10 @@ outstanding:
   - text: "Move into the 10cm white pot already owned. **Nothing bigger**"
   - text: "Gritty mix, roughly half perlite or grit. Not the general blend, which holds far too much water for this plant"
   - text: "**Cut the dead strands off entirely.** Check them for firm pea-sized tubers before binning, a tuber can be alive when the strand looks finished"
+  - text: "Pot the ball **intact**, no teasing or shaving. 1 to 2cm of gritty mix in the base, then fresh mix over the top of the old ball with a clear collar around the crown, so the coils have something to root into"
+  - text: "**Do not water after potting.** The ball is already moist. Wait until it is genuinely dry, which may be a fortnight"
+  - text: "Revisit the root congestion in April or May, not now"
+    due: 2027-04-30
   - text: "**Coil the bare strands back onto the soil and pin every loop** with bent garden wire, so the joints are touching damp soil. Wire is the same thing as a U-pin and you already have it"
   - text: "Move it to the brightest spot in the flat. It wants more light than any other trailer here"
 log:
@@ -43,6 +47,12 @@ Unlike the big variegated, this one is the real thing.
 **Do not gut the ball to fix it.** The plant is depleted above ground, bare strands with a few
 small leaves, so what reserves it has are in those roots and thickened tubers. Cutting a third of
 them off a plant that cannot photosynthesise its way back is the wrong risk.
+
+**Decided on 21 August: skip the shaving entirely this year.** The ball was still holding moisture
+seven to ten days after watering, and fresh root wounds sitting in damp mix is the rot pathway for
+a semi-succulent. Pot the ball intact, pin the coils now while there are three weeks of season
+left, and revisit the congestion in April or May when there is a full season ahead and the plant
+has leaves to power the recovery. The shaving was always the optional part.
 
 **The coiling is the root system fix, not the repot.** Every pinned joint roots into fresh gritty
 mix on the surface, which builds an entirely new root system that owes nothing to the old ball.
