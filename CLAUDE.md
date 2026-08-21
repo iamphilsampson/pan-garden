@@ -63,11 +63,14 @@ evidence.
 - **British English, no em dashes, no emoji.** The existing docs follow this
 - Palette is lifted from `plants-to-action.html` so it stays familiar. It lives in `CSS` at the
   top of `build.py`
-- Do not re-derive the plant identifications, pot sizes or care advice. They are settled in
-  `plant-repot-plan.md`. Four of Phil's plant names were wrong and the corrections are recorded
+- Do not re-derive the plant identifications, pot sizes or care advice. Four of Phil's plant
+  names were wrong and the corrections are recorded
+- **Precedence when the docs disagree: `plants/` beats `plants-to-action.html` beats
+  `plant-repot-plan.md`**, in that order of recency. The plan doc is 5 August, the HTML is
+  14 August. Reconciled on 21 August, when the plan doc's blockers turned out to be gating six
+  jobs on materials already in the house. Do not migrate from either older file again
 - **The default answer to "should I repot this" in this collection has been no.** Nine of the
   fourteen had the same two problems, not enough light and no feed. Only two genuinely needed a
   bigger pot
 - Reversals are welcome. Where advice changed, the old position and the reason are kept in the
   plant's notes rather than quietly overwritten
-</content>
