@@ -6,11 +6,14 @@ aka: null
 pot_cm: 28
 pot_target_cm: 30
 location: null
-order: 1
+order: 0
 photos:
   - file: prop-joe-moss-top-layer.jpg
     date: 2026-08-21
     note: "Finished. Live moss laid over the whole surface, twine on the pole"
+  - file: prop-joe-rootbound-ball.jpg
+    date: 2026-08-21
+    note: "Out of the 28cm. A solid mat of circling roots with barely any compost left, which is why water ran straight past him"
   - file: prop-joe-repotted-30cm.jpg
     date: 2026-08-21
     note: "In the 30cm terracotta. Chunky mix, bark and perlite and Seramis all visible"
@@ -20,7 +23,7 @@ photos:
   - file: prop-joe-monstera-trunk-aerial-roots.jpg
     date: 2026-08-14
     note: "Before. Bare trunk, aerial roots dangling in air"
-status: outstanding
+status: done
 outstanding:
   - text: "**Wrap the pole in live moss** and bind it on with soft twine. Bare coir dries fast and aerial roots grip it poorly"
   - text: "**Tuck the aerial roots still sitting on top of the moss underneath it.** Lift the moss, slide them under, press it back. On top of the moss they are still in air"
@@ -37,6 +40,8 @@ log:
   - date: 2026-08-21
     note: "**30cm pot bought**, and it is a tall one, so more bare trunk goes under the soil line than originally planned"
   - date: 2026-08-21
+    note: "**Came out of the 28cm as a solid mat of circling roots**, barely any compost left in the ball. Explains the watering problem better than fine compost alone did"
+  - date: 2026-08-21
     note: "**Repotted into the 30cm terracotta.** Chunky aroid mix with worm castings through it, 2 to 3cm of gravel in the base for ballast, bare trunk buried, coir pole set in against the stem"
   - date: 2026-08-21
     note: "**Live moss layer laid over the whole surface**, and twine on the pole. The repot is finished"
@@ -52,6 +57,20 @@ log:
 - **2 to 3cm of gravel in the base.** Weight is the point, and it is ballast rather than drainage, so a thin layer does it. An earlier suggestion of polystyrene to reduce weight was wrong
 - **Not a plastic pot**, for the same reason. Glazed or terracotta
 - Bark is about 3L short for a 30cm mix, so hand-torn live moss makes up the difference. The 4L orchid mix is bark plus Seramis clay granules rather than pure bark, which is fine, the clay holds water and aroids like it
+
+## The root ball went in as it came out, and that is fine
+
+He came out of the 28cm as a solid mat of circling roots with almost no compost left. That was
+not teased apart before he went into the 30cm.
+
+**Do not dig him back up to fix it.** Two lots of root disturbance in one day costs more than the
+circling does, and the burial is what makes it moot: 20 to 30cm of buried trunk plus every tucked
+aerial root will throw a whole new root system directly into the fresh mix. He is not relying on
+the old ball to colonise it. The circling mat just gets outgrown.
+
+It also explains the watering problem better than fine compost did on its own. A ball that solid
+has almost no compost left to hold water, so it ran straight past him no matter how long he sat
+in it.
 
 ## The air layer, and the correction
 

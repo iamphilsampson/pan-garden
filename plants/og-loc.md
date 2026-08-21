@@ -6,7 +6,7 @@ aka: null
 pot_cm: 26
 pot_target_cm: null
 location: null
-order: 2
+order: 1
 photos:
   - file: og-loc-monstera-whole.jpg
     date: 2026-08-14

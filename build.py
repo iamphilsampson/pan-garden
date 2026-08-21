@@ -95,7 +95,7 @@ body {
 a { color: var(--green); }
 
 header.top {
-  padding: 40px 0 28px;
+  padding: 22px 0 24px;
   border-bottom: 1px solid var(--border);
   margin-bottom: 32px;
 }
@@ -114,6 +114,29 @@ h3 { font-size: 15px; margin: 26px 0 8px; }
   text-decoration: none;
 }
 .back:hover { text-decoration: underline; }
+
+a.back.top-back {
+  margin: 28px 0 0;
+  color: var(--muted);
+  font-size: 13.5px;
+}
+a.back.top-back::before { content: "\2190\00a0"; }
+a.back.top-back:hover { color: var(--green); }
+
+.badge {
+  display: inline-block;
+  margin-left: 9px;
+  min-width: 20px;
+  padding: 1px 7px;
+  border-radius: 20px;
+  background: var(--amber);
+  color: #fff;
+  font-size: 12.5px;
+  font-weight: 600;
+  line-height: 1.5;
+  text-align: center;
+  vertical-align: 2px;
+}
 
 /* Index cards */
 
@@ -246,7 +269,7 @@ h3.cycle:first-of-type { margin-top: 0; }
   border: 1px solid var(--border);
   border-radius: 10px;
   padding: 18px 20px;
-  margin-bottom: 8px;
+  margin: 0 0 28px;
 }
 .identity dl { margin: 0; display: grid; grid-template-columns: 132px 1fr; row-gap: 7px; }
 .identity dt { color: var(--muted); font-size: 14px; }
@@ -515,7 +538,9 @@ def load_plants():
         data["status"] = status
         plants.append(data)
 
-    plants.sort(key=lambda p: (STATUS_ORDER.index(p["status"]), p.get("order") or 99, p.get("name") or ""))
+    plants.sort(key=lambda p: (STATUS_ORDER.index(p["status"]),
+                           p["order"] if p.get("order") is not None else 99,
+                           p.get("name") or ""))
     return plants, collection
 
 
@@ -710,6 +735,12 @@ def action_tags(action):
     return "".join('<span class="tag">%s</span>' % tag for tag in tags)
 
 
+def heading(title, count=None):
+    """Section heading, with a count badge when there is something to count."""
+    badge = '<span class="badge">%d</span>' % count if count else ""
+    return "<h2>%s%s</h2>" % (html.escape(title), badge)
+
+
 def render_actions(plant):
     if not plant["outstanding"]:
         return '<p class="empty">Nothing outstanding.</p>'
@@ -792,7 +823,9 @@ def render_plant(plant):
 
     notes = md_to_html(plant["notes"]) if plant["notes"] else '<p class="empty">No notes yet.</p>'
 
-    body = """<header class="top">
+    body = """<a class="back top-back" href="index.html">All plants</a>
+
+<header class="top">
 <h1>%s</h1>
 <p class="sub">%s</p>
 </header>
@@ -801,13 +834,13 @@ def render_plant(plant):
 
 %s
 
-<h2>Outstanding</h2>
+%s
 %s
 
-<h2>History</h2>
+%s
 %s
 
-<h2>Care notes</h2>
+%s
 <div class="notes">
 %s
 </div>
@@ -816,10 +849,13 @@ def render_plant(plant):
 """ % (
         html.escape(plant.get("name") or plant["slug"]),
         html.escape(plant.get("species") or ""),
-        gallery,
         identity,
+        gallery,
+        heading("Outstanding", len(plant["outstanding"])),
         render_actions(plant),
+        heading("History", len(plant["log"])),
         render_log(plant),
+        heading("Care notes"),
         notes,
     )
 
@@ -827,18 +863,20 @@ def render_plant(plant):
 
 
 def render_collection(collection):
-    body = """<header class="top">
+    body = """<a class="back top-back" href="index.html">All plants</a>
+
+<header class="top">
 <h1>%s</h1>
 <p class="sub">Jobs and notes that apply to the collection rather than one plant.</p>
 </header>
 
-<h2>Outstanding</h2>
+%s
 %s
 
-<h2>History</h2>
+%s
 %s
 
-<h2>Notes</h2>
+%s
 <div class="notes">
 %s
 </div>
@@ -846,8 +884,11 @@ def render_collection(collection):
 <a class="back" href="index.html">Back to all plants</a>
 """ % (
         html.escape(collection.get("name") or "Whole collection"),
+        heading("Outstanding", len(collection["outstanding"])),
         render_actions(collection),
+        heading("History", len(collection["log"])),
         render_log(collection),
+        heading("Notes"),
         md_to_html(collection["notes"]) if collection["notes"] else '<p class="empty">No notes yet.</p>',
     )
     return page("Whole collection, Pan Garden", body, narrow=True)
