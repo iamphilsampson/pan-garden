@@ -30,10 +30,18 @@ becomes the panel on the index plus `site/collection.html`.
 
 ## History
 
-Git-backed since 21 August 2026, on `main`, no remote yet. The history is the point of the
-project, so **commit after any session that changes a plant's state.** One commit per session is
-plenty, and the message should say what actually happened to the plants rather than which files
-moved.
+Git-backed since 21 August 2026 on `main`, remote `iamphilsampson/pan-garden`, **public**.
+The history is the point of the project, so **commit and push after any session that changes a
+plant's state.** One commit per session is plenty, and the message should say what actually
+happened to the plants rather than which files moved.
+
+Live at **https://iamphilsampson.github.io/pan-garden/**. Pushing to `main` rebuilds and
+redeploys it via `.github/workflows/pages.yml`, so there is no deploy step to remember and the
+hosted copy cannot drift from `plants/*.md`. The workflow flattens `../photos/` to `photos/` for
+the hosted copy only, which is why opening `site/index.html` locally still works unchanged.
+
+The repo is public, so **do not put anything in here that should not be.** Photos are visible to
+anyone.
 
 `site/` is gitignored because `build.py` regenerates it. Photos are committed, they are the
 evidence.
