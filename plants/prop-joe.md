@@ -42,6 +42,8 @@ log:
   - date: 2026-08-21
     note: "**Came out of the 28cm as a solid mat of circling roots**, barely any compost left in the ball. Explains the watering problem better than fine compost alone did"
   - date: 2026-08-21
+    note: "**Root ball teased out fully** before going in, and some of the lower aerial roots removed"
+  - date: 2026-08-21
     note: "**Repotted into the 30cm terracotta.** Chunky aroid mix with worm castings through it, 2 to 3cm of gravel in the base for ballast, bare trunk buried, coir pole set in against the stem"
   - date: 2026-08-21
     note: "**Live moss layer laid over the whole surface**, and twine on the pole. The repot is finished"
@@ -58,19 +60,15 @@ log:
 - **Not a plastic pot**, for the same reason. Glazed or terracotta
 - Bark is about 3L short for a 30cm mix, so hand-torn live moss makes up the difference. The 4L orchid mix is bark plus Seramis clay granules rather than pure bark, which is fine, the clay holds water and aroids like it
 
-## The root ball went in as it came out, and that is fine
+## The root ball
 
-He came out of the 28cm as a solid mat of circling roots with almost no compost left. That was
-not teased apart before he went into the 30cm.
+He came out of the 28cm as a solid mat of circling roots with almost no compost left. That
+explains the watering problem better than fine compost did on its own: a ball that solid has
+barely any compost to hold water, so it ran straight past him however long he sat in it.
 
-**Do not dig him back up to fix it.** Two lots of root disturbance in one day costs more than the
-circling does, and the burial is what makes it moot: 20 to 30cm of buried trunk plus every tucked
-aerial root will throw a whole new root system directly into the fresh mix. He is not relying on
-the old ball to colonise it. The circling mat just gets outgrown.
-
-It also explains the watering problem better than fine compost did on its own. A ball that solid
-has almost no compost left to hold water, so it ran straight past him no matter how long he sat
-in it.
+**The ball was teased out fully before he went into the 30cm**, and some of the lower aerial roots
+were removed at the same time. So the roots are in proper contact with the fresh mix rather than
+carrying on in circles, and nothing needs revisiting.
 
 ## The air layer, and the correction
 
