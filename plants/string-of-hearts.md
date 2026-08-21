@@ -26,11 +26,17 @@ outstanding:
   - text: "**Cut the dead strands off entirely.** Check them for firm pea-sized tubers before binning, a tuber can be alive when the strand looks finished"
   - text: "Pot the ball **intact**, no teasing or shaving. 1 to 2cm of gritty mix in the base, then fresh mix over the top of the old ball with a clear collar around the crown, so the coils have something to root into"
   - text: "**Do not water after potting.** The ball is already moist. Wait until it is genuinely dry, which may be a fortnight"
+  - text: "**Set up a coiling bed in Prop Joe's freed 28cm nursery pot.** 4 to 5cm of gritty mix, the 10cm pot sitting in it, surplus strand coiled over the surface. Eight times the area, and every strand stays attached to the parent while it roots"
+  - text: "Thin the existing mound on the 10cm to a **single layer**. Anything resting on other strands is rooting into nothing"
   - text: "Revisit the root congestion in April or May, not now"
     due: 2027-04-30
   - text: "**Coil the bare strands back onto the soil and pin every loop** with bent garden wire, so the joints are touching damp soil. Wire is the same thing as a U-pin and you already have it"
   - text: "Move it to the brightest spot in the flat. It wants more light than any other trailer here"
 log:
+  - date: 2026-08-21
+    note: "**Reassessed: this plant is in far better shape than the plan said.** Once the coiling started it turned out to have several metres of live strand, plenty of healthy leaves and dozens of tubers at the nodes. The original poorest-plant-in-the-collection verdict came from one photo of its worst strands"
+  - date: 2026-08-21
+    note: "Potted into the 10cm, ball intact, and coiling started"
   - date: 2026-08-21
     note: "**Pulled out and it is severely root bound.** A genuine felted mat with barely any compost left, which explains the bone-dry soil and the salt crust: there was no medium left to hold water or buffer salts"
   - date: 2026-08-05
@@ -69,6 +75,22 @@ is abnormal, it is just what a long time in the same pot with no room looks like
 ## Why 10cm and not bigger
 
 Ceropegia are semi-succulent. They store water in their leaves and tubers and they rot in too much soil. 9cm to 10cm is barely an upsize and that is deliberate. The white pot already owned is exactly right.
+
+## Surface area is the constraint, not strand length
+
+On 21 August the coiling ran out of room long before it ran out of strand. A 10cm pot offers about
+78cm2 of surface and this plant turned out to have several metres.
+
+**The fix is more surface, not more layers.** Stacking coils is worse than useless: only strands
+touching compost root, so anything resting on other strands is back to sitting in air, and a thick
+thatch holds moisture over the crown of the most rot-prone plant here.
+
+Prop Joe's freed 28cm nursery pot gives roughly 600cm2, about eight times the area. Filled 4 to
+5cm deep with gritty mix, with the 10cm pot sitting in it, every surplus strand can be coiled and
+pinned while staying attached to the parent. Shallow fill matters, so it dries between waterings.
+
+**There is no rush to finish it.** The roots are in soil, which was the only time-critical part.
+The coiling can be spread over several evenings.
 
 ## Coiling, and why it beats cuttings
 
