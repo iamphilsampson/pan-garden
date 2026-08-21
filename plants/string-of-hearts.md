@@ -6,8 +6,17 @@ aka: null
 pot_cm: 9
 pot_target_cm: 10
 location: null
-order: 1
+order: 3
 photos:
+  - file: string-of-hearts-coiled-hanging.jpg
+    date: 2026-08-21
+    note: "Back in the hanger, done. Two long trailing masses left hanging, including the doubled-over strand"
+  - file: string-of-hearts-coiled-mound.jpg
+    date: 2026-08-21
+    note: "The mix mounded up to win surface area, strands pinned around it"
+  - file: string-of-hearts-coiled-surface.jpg
+    date: 2026-08-21
+    note: "The surface. Gritty mix with bark and perlite, tuber-bearing nodes pinned into contact"
   - file: string-of-hearts-rootbound-base.jpg
     date: 2026-08-21
     note: "The base. A solid felted mat of fine roots across the whole bottom with almost no compost left"
@@ -19,20 +28,21 @@ photos:
     note: "The side, same story"
   - file: string-of-hearts.jpg
     date: 2026-08-14
-status: outstanding
+status: done
 outstanding:
-  - text: "Move into the 10cm white pot already owned. **Nothing bigger**"
-  - text: "Gritty mix, roughly half perlite or grit. Not the general blend, which holds far too much water for this plant"
-  - text: "**Cut the dead strands off entirely.** Check them for firm pea-sized tubers before binning, a tuber can be alive when the strand looks finished"
-  - text: "Pot the ball **intact**, no teasing or shaving. 1 to 2cm of gritty mix in the base, then fresh mix over the top of the old ball with a clear collar around the crown, so the coils have something to root into"
-  - text: "**Do not water after potting.** The ball is already moist. Wait until it is genuinely dry, which may be a fortnight"
-  - text: "**Set up a coiling bed in Prop Joe's freed 28cm nursery pot.** 4 to 5cm of gritty mix, the 10cm pot sitting in it, surplus strand coiled over the surface. Eight times the area, and every strand stays attached to the parent while it roots"
-  - text: "Thin the existing mound on the 10cm to a **single layer**. Anything resting on other strands is rooting into nothing"
+  - text: "**Keep the top centimetre just damp for the next four to six weeks**, without soaking the ball. Rooting nodes need contact moisture, the ball must not sit wet. Surface watering rather than a soak"
+  - text: "Three weeks in, tug a pinned coil gently. Resistance means rooted"
+    due: 2026-09-11
+  - text: "Make sure it is in the brightest spot you have. It wants more light than any other trailer here"
+  - text: "**Divide the doubled-over strand in spring**, not autumn. Cut at the fold once each half has two or three rooted joints, on the smooth stretch about 1cm past a node"
+    due: 2027-04-30
   - text: "Revisit the root congestion in April or May, not now"
     due: 2027-04-30
-  - text: "**Coil the bare strands back onto the soil and pin every loop** with bent garden wire, so the joints are touching damp soil. Wire is the same thing as a U-pin and you already have it"
-  - text: "Move it to the brightest spot in the flat. It wants more light than any other trailer here"
 log:
+  - date: 2026-08-21
+    note: "**Done.** Mix mounded up to win surface area, and the strands with tubers on them pinned preferentially into soil contact rather than chasing a single flat layer. Looks baggy, no wasted leaves. Two long masses left trailing, and back in the hanger"
+  - date: 2026-08-21
+    note: "Given a light water. No root wounds to worry about since the ball went in intact, and the pinned nodes need contact moisture to root"
   - date: 2026-08-21
     note: "**Reassessed: this plant is in far better shape than the plan said.** Once the coiling started it turned out to have several metres of live strand, plenty of healthy leaves and dozens of tubers at the nodes. The original poorest-plant-in-the-collection verdict came from one photo of its worst strands"
   - date: 2026-08-21
@@ -89,8 +99,30 @@ Prop Joe's freed 28cm nursery pot gives roughly 600cm2, about eight times the ar
 5cm deep with gritty mix, with the 10cm pot sitting in it, every surplus strand can be coiled and
 pinned while staying attached to the parent. Shallow fill matters, so it dries between waterings.
 
-**There is no rush to finish it.** The roots are in soil, which was the only time-critical part.
-The coiling can be spread over several evenings.
+**Resolved on 21 August by mounding rather than spreading.** Heaping the gritty mix into a dome
+wins back a good deal of the missing area, and pinning the tuber-bearing nodes preferentially
+beats laying every strand flat: a node with a tuber on it roots faster, because the tuber is a
+packed lunch. The 28cm coiling bed was not needed.
+
+## Watering while it roots
+
+There is a real tension here for four to six weeks. **The pinned nodes need the surface to stay
+slightly damp or they will not root. The root ball must not sit wet or it rots.** In a hanging pot
+with a gritty mounded mix, the surface dries faster than anything else in the room.
+
+So during rooting: **water the surface lightly, do not soak the pot.** Once the nodes have taken,
+revert to the normal rule and let it dry out completely between waterings.
+
+## Dividing the doubled strand
+
+The longest piece is folded back on itself, so once nodes along both halves have rooted it can be
+cut at the fold to give two independent plants. That is serial layering and it works.
+
+**Do it in spring, not autumn.** Same reasoning as Prop Joe's air layer: separating heading into
+the dark months leaves a small root system carrying a plant through months with no growth. Left
+attached over winter it costs nothing and the parent keeps feeding it. Cut in April or May, once
+each half has two or three rooted joints, on the smooth stretch about 1cm past a node rather than
+through a joint.
 
 ## Coiling, and why it beats cuttings
 
