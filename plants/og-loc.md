@@ -22,6 +22,8 @@ outstanding:
     blocked_by: "pole extension sections and a bamboo cane"
   - text: "Wrap the pole in live moss and tuck the loose aerial roots into it. Lay a moss layer on the soil surface too, leaving a gap around the stem"
 log:
+  - date: 2026-08-21
+    note: "**Fed.** First feed in over a year"
   - date: 2026-08-05
     note: "Identified as a third Monstera deliciosa. Measured at 26cm, so no repot needed"
 ---

@@ -19,6 +19,8 @@ outstanding:
     blocked_by: "pole extension sections"
   - text: "Wrap the pole in live moss and tuck the loose aerial roots into it, plus a moss layer on the soil surface"
 log:
+  - date: 2026-08-21
+    note: "**Fed.** First feed in over a year"
   - date: 2026-08-05
     note: "Measured at 25cm. No repot needed, feeding and support are the whole job"
 ---

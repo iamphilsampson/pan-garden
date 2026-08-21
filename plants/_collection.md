@@ -3,7 +3,7 @@ name: Whole collection
 species: null
 status: outstanding
 outstanding:
-  - text: "**Start feeding, everything, and nothing is blocking it.** The liquid feed came in the 14 August haul. The window shuts mid-September, so roughly three weeks left. Strelitzia first, and **not Prop Joe**, who is now four to six weeks post root work"
+  - text: "**Keep the feeding going.** Philipos and OG loc fed on 21 August. Still to do: Strelitzia, the avocado once it shoots, the three trailers, both variegated, and the Dracaena at half strength. **Not Prop Joe** until 5 October, and never the pine. Window shuts mid-September"
   - text: "**Buy 6L of orchid bark.** The only thing still gating Prop Joe's repot. The 4L Westland is part bark and part Seramis, so it does not cover it, and the 30cm pot alone wants 6 to 7L at 40%"
   - text: "Check the litres on the two bags of universal potting soil. **Under 30L combined, grab one more.** Prop Joe's 30cm takes 15 to 18L on its own, before four top-dressings"
   - text: "Put a bucket or two out for rainwater. Free, and the surplus moss only stays alive on rainwater"
@@ -11,6 +11,8 @@ outstanding:
   - text: "Confirm the calendar reminder is set for Prop Joe's air layer"
     due: 2027-02-20
 log:
+  - date: 2026-08-21
+    note: "**Feeding programme started**, a week later than it should have been. Philipos and OG loc fed"
   - date: 2026-08-14
     note: "**First shop done.** Universal potting soil, 6L perlite, a 4L orchid mix, gravel **and the liquid feed** are in, which unblocked all four top-dressings and the whole feeding programme"
   - date: 2026-08-05
