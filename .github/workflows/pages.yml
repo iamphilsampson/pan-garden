@@ -1,0 +1,57 @@
+name: Build and deploy the site
+
+# site/ is generated output and is gitignored, so it gets built here on every
+# push rather than committed. Edit plants/*.md, push, the site updates itself.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build the site
+        run: python3 build.py
+
+      - name: Stage the deploy
+        # The pages live at the deploy root rather than in a site/ subfolder, so
+        # the ../photos/ paths that work when opening site/index.html locally
+        # need flattening to photos/ for the hosted copy. Source is untouched.
+        run: |
+          mkdir -p _deploy
+          cp site/*.html site/style.css _deploy/
+          cp -R photos _deploy/photos
+          sed -i 's|\.\./photos/|photos/|g' _deploy/*.html
+          echo "Deploying $(ls _deploy/*.html | wc -l) pages and $(ls _deploy/photos | wc -l) photos"
+          grep -q '\.\./photos/' _deploy/*.html && { echo "Photo paths were not rewritten"; exit 1; } || true
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _deploy
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
