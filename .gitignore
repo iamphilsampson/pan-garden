@@ -1,0 +1,8 @@
+# Generated output. build.py recreates all of it in a second.
+site/
+
+# macOS
+.DS_Store
+
+# Local Claude Code settings, machine specific
+.claude/settings.local.json
