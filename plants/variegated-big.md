@@ -6,7 +6,7 @@ aka: null
 pot_cm: 18
 pot_target_cm: 21
 location: null
-order: 3
+order: 2
 photos:
   - file: variegated-big-pothos-whole-2.jpg
     date: 2026-08-21
@@ -22,6 +22,8 @@ outstanding:
   - text: "Keep the metal rod. It does the job, no new pole needed"
   - text: "General mix: 3 parts coir or peat, 1 perlite, 1 orchid bark, plus granular or 15% worm castings. All of it is already in the house"
 log:
+  - date: 2026-08-21
+    note: "**The 21cm pot in hand is steeply tapered and narrow at the base**, so the usable volume may be little more than the 18cm. Repot on hold pending a volume check"
   - date: 2026-08-05
     note: "Marked as a top-dress only, keeping the same 18cm pot"
   - date: 2026-08-21

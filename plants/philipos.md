@@ -24,7 +24,7 @@ outstanding:
     blocked_by: "pole extension sections"
 log:
   - date: 2026-08-21
-    note: "**Top-dressed** with fresh mix and the level brought back up. Tied in at four points"
+    note: "**Top-dressed** with fresh mix and the level brought back up. Tied in at four points, and the loose surface aerial root buried while it was open"
   - date: 2026-08-21
     note: "**Fed.** First feed in over a year"
   - date: 2026-08-05

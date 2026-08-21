@@ -6,17 +6,18 @@ aka: null
 pot_cm: 16
 pot_target_cm: null
 location: null
-order: 2
+order: 3
 photos:
   - file: variegated-small-pothos.jpg
     date: 2026-08-14
   - file: variegated-small-pothos-roots-through-holes.jpg
     date: 2026-08-14
-status: outstanding
+status: done
 outstanding:
-  - text: "**Refresh in the same 16cm pot, and this can happen today.** Ease it out, tease the outer roots loose, trim anything circling tightly, put it back with fresh mix"
   - text: "Fit the Strelitzia's freed coir pole as a short starter support"
 log:
+  - date: 2026-08-21
+    note: "**Top shuffle done**, and fed"
   - date: 2026-08-05
     note: "Measured at **16cm, not 13**. The 15cm purchase was cancelled and the pot cascade that depended on it is dead"
   - date: 2026-08-05
