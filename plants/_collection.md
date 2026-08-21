@@ -33,7 +33,7 @@ The first shop is done, so this is what is genuinely left.
 - **Slow-release granular feed**, mixed through the new compost so the repot and the top-dressings keep going without you remembering
 - ~~1 x 30cm pot for Prop Joe~~. Bought and planted on 21 August
 - **Orchid bark, small amount.** Nothing is gated on it now. About 1L for the big variegated repot
-- **1 x 21cm pot** for the big variegated pothos. Added 21 August, after the roots turned up out of the base
+- ~~1 x 21cm pot for the big variegated~~. Bought, then not needed. He went back into his 18cm with fresh soil. **The pot is spare**
 - **1 full-height pole core for Prop Joe, plus 3 or 4 extension sections.** Take one of OG loc's poles with you to match the brand. If nothing matches, 25mm plastic pipe or a stout cane works, because you are wrapping it in moss anyway
 - **1 long bamboo cane** to anchor OG loc's pole
 - **Soft plant ties**
@@ -105,6 +105,6 @@ For a monstera a pole is not a stick, it is a food source. Keep it damp by pouri
 
 Nine of these plants had the same two problems: **not enough light, and no feed since the compost ran out.** Long bare stems, small leaves, everything running away from the pot. Only one plant in the whole collection, Prop Joe, was ever proven short of root space.
 
-The pot count fell at every round of evidence: 4 to 9, then 3 to 4, then 2 to 3, then 2, then 1. Every measurement removed a purchase. Hold that line. **The default answer to "should I repot this" in this collection has been no.** A repot was added for the big variegated pothos on 21 August and then put back in doubt the same day, once the base photo turned out to show escaped roots rather than a root-bound mat, and once the small one from the same cutting came out with perfectly healthy roots. **That makes it one plant out of fourteen that needed a bigger pot, not two.** Decide the remaining case with the ball in hand, not from a photograph.
+The pot count fell at every round of evidence: 4 to 9, then 3 to 4, then 2 to 3, then 2, then 1. Every measurement removed a purchase. Hold that line. **The default answer to "should I repot this" in this collection has been no.** A repot was added for the big variegated pothos on 21 August and then put back in doubt the same day, once the base photo turned out to show escaped roots rather than a root-bound mat, and once the small one from the same cutting came out with perfectly healthy roots. **Settled on 21 August: he went back into the same 18cm with fresh soil.** So it is one plant out of fourteen that needed a bigger pot, Prop Joe, and the 21cm bought for this is spare. Across the whole year the collection needed exactly one new pot.
 
 Rotating weekly and feeding fortnightly through summer prevents essentially all of it.

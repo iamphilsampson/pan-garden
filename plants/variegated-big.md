@@ -4,9 +4,9 @@ name: Variegated big
 species: Variegated pothos, mature and fenestrated
 aka: null
 pot_cm: 18
-pot_target_cm: 21
+pot_target_cm: null
 location: null
-order: 1
+order: 3
 photos:
   - file: variegated-big-pothos-whole-2.jpg
     date: 2026-08-21
@@ -14,14 +14,14 @@ photos:
     date: 2026-08-14
   - file: variegated-big-pothos-roots-through-base.jpg
     date: 2026-08-21
-status: outstanding
+status: done
 outstanding:
-  - text: "Keep the metal rod. It does the job, no new pole needed"
   - text: "**Settle the identification.** Phil believes both variegated plants are Monstera from the same cutting. The leaf and petiole evidence says variegated Epipremnum in adult form. The geniculum test decides it, see the notes"
-  - text: "General mix: 3 parts coir or peat, 1 perlite, 1 orchid bark, plus granular or 15% worm castings. All of it is already in the house"
 log:
   - date: 2026-08-21
-    note: "**Full soil reshuffle completed.** Which pot he ended up in is not recorded yet, ask Phil"
+    note: "**Back into the same 18cm with fresh soil.** The repot was not needed. Third and final position on this plant, and the one the collection's pattern predicted"
+  - date: 2026-08-21
+    note: "**Full soil reshuffle completed**, metal rod kept"
   - date: 2026-08-21
     note: "**No geniculum on the adult leaves.** On a fenestrated Monstera leaf that joint would be obvious, so the evidence now points firmly to variegated Epipremnum"
   - date: 2026-08-21

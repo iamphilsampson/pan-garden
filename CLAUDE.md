@@ -54,9 +54,22 @@ evidence.
 | `build.py` | Generates the site. The frontmatter format is documented in its docstring |
 | `site/` | Generated output, safe to delete and rebuild |
 | `photos/` | Every plant photo, named by plant. Referenced as `../photos/x.jpg` |
-| `plant-repot-plan.md` | The v6 knowledge doc. Soil recipes, feeding order, the reasoning behind every decision. Reference only, not the source of truth any more |
-| `plants-to-action.html` | The old one-big-page working surface. Superseded by `site/`, kept for reference |
+| `plant-repot-plan.md`, `plants-to-action.html` | Historical reference. Superseded, see the precedence rule below |
 | `HANDOVER.md`, `HANDOVER-plant-manager.md` | Session handovers from the audit and the build |
+
+## Picking this back up
+
+Nothing needs doing to keep it alive. To check it still works: open the live URL, then run
+`python3 build.py` locally. `build.py` is standard library only, and it falls back to its own
+frontmatter parser if PyYAML is absent, so there is nothing to install and nothing to rot.
+
+**If the site has stopped updating**, the GitHub Actions workflow has aged out, most likely a
+deprecated action version. It fails safe, the last good deploy stays up, so it is never urgent.
+Fix by bumping the `uses:` versions in `.github/workflows/pages.yml`, or run `python3 build.py`
+and open `site/index.html` locally in the meantime.
+
+**Due in February 2027:** wrap Prop Joe's air layer around 20 February, and start feeding again in
+March. Both are on their pages with dates.
 
 ## Conventions
 
