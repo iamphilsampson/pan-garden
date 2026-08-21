@@ -103,8 +103,8 @@ For a monstera a pole is not a stick, it is a food source. Keep it damp by pouri
 
 ## The pattern behind all of it
 
-Nine of these plants had the same two problems: **not enough light, and no feed since the compost ran out.** Long bare stems, small leaves, everything running away from the pot. Only one plant in the whole collection was genuinely short of root space.
+Nine of these plants had the same two problems: **not enough light, and no feed since the compost ran out.** Long bare stems, small leaves, everything running away from the pot. Only one plant in the whole collection, Prop Joe, was ever proven short of root space.
 
-The pot count fell at every round of evidence: 4 to 9, then 3 to 4, then 2 to 3, then 2, then 1. Every measurement removed a purchase. Hold that line. **The default answer to "should I repot this" in this collection has been no.** The exception, added on 21 August, was the big variegated pothos, and only because the roots were visibly out of the base and running across the floor.
+The pot count fell at every round of evidence: 4 to 9, then 3 to 4, then 2 to 3, then 2, then 1. Every measurement removed a purchase. Hold that line. **The default answer to "should I repot this" in this collection has been no.** A repot was added for the big variegated pothos on 21 August and then put back in doubt the same day, once the base photo turned out to show escaped roots rather than a root-bound mat, and once the small one from the same cutting came out with perfectly healthy roots. **That makes it one plant out of fourteen that needed a bigger pot, not two.** Decide the remaining case with the ball in hand, not from a photograph.
 
 Rotating weekly and feeding fortnightly through summer prevents essentially all of it.

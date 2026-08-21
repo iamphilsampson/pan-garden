@@ -70,7 +70,11 @@ evidence.
   14 August. Reconciled on 21 August, when the plan doc's blockers turned out to be gating six
   jobs on materials already in the house. Do not migrate from either older file again
 - **The default answer to "should I repot this" in this collection has been no.** Nine of the
-  fourteen had the same two problems, not enough light and no feed. Only two genuinely needed a
-  bigger pot
+  fourteen had the same two problems, not enough light and no feed. **Exactly one, Prop Joe, was
+  ever proven short of root space.** Roots at the drainage holes has meant out of fresh soil, not
+  out of room, every single time it has been checked
+- **Do not diagnose roots from a photograph.** Two errors on 21 August came from doing that: a
+  root ball attributed to the wrong plant, and "escaped roots" written up as a "dense root mat".
+  Get the plant out of the pot and look, or ask Phil what he saw
 - Reversals are welcome. Where advice changed, the old position and the reason are kept in the
   plant's notes rather than quietly overwritten
