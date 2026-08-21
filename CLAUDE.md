@@ -1,18 +1,20 @@
 # Pan Garden
 
-Houseplant manager. Fourteen plants, per-plant state, outstanding jobs and a dated history.
-Started as an annual repotting audit in August 2026, kept as a running record.
+Houseplant manager. Fourteen plants, per-plant state, what is outstanding and what was done when.
+Started as an annual repotting audit in August 2026 and is now kept as a running record.
 
 ## How it works
 
-`plants/*.md` is the source of truth. One file per plant: YAML frontmatter for state, markdown
-below it for care notes. `build.py` generates `site/` from those plus `photos/`.
+`plants/*.md` is the source of truth. One file per plant: YAML frontmatter for the structured
+state, freeform markdown below it for the care notes. `build.py` generates `site/` from those
+files plus `photos/`.
 
 ```bash
 python3 build.py
 ```
 
-Static, no server, no npm, no CDN, standard library only.
+Then open `site/index.html` by double clicking it. Static, no server, no npm, no CDN. PyYAML is
+used if installed and a built in parser covers it if not, so there is nothing to install.
 
 ## To update a plant
 
@@ -33,12 +35,13 @@ The history is the point of the project, so **commit and push after any session 
 plant's state.** One commit per session is plenty, and the message should say what actually
 happened to the plants rather than which files moved.
 
-Live at **https://iamphilsampson.github.io/pan-garden/**. Pushing to `main` rebuilds and redeploys
-via `.github/workflows/pages.yml`, so there is no deploy step and the hosted copy cannot drift.
-It flattens `../photos/` to `photos/` for the hosted copy only, so local `site/index.html` still
-works unchanged.
+Live at **https://iamphilsampson.github.io/pan-garden/**. Pushing to `main` rebuilds and
+redeploys it via `.github/workflows/pages.yml`, so there is no deploy step to remember and the
+hosted copy cannot drift from `plants/*.md`. The workflow flattens `../photos/` to `photos/` for
+the hosted copy only, which is why opening `site/index.html` locally still works unchanged.
 
-The repo is **public**. Do not put anything in it that should not be.
+The repo is public, so **do not put anything in here that should not be.** Photos are visible to
+anyone.
 
 `site/` is gitignored because `build.py` regenerates it. Photos are committed, they are the
 evidence.
@@ -56,14 +59,17 @@ evidence.
 
 ## Picking this back up
 
-Nothing is needed to keep it alive. To verify: open the live URL, then run `python3 build.py`.
+Nothing needs doing to keep it alive. To check it still works: open the live URL, then run
+`python3 build.py` locally. `build.py` is standard library only, and it falls back to its own
+frontmatter parser if PyYAML is absent, so there is nothing to install and nothing to rot.
 
-**If the site has stopped updating**, the Actions workflow has aged out, most likely a deprecated
-action version. It fails safe, the last good deploy stays up, so it is never urgent. Bump the
-`uses:` versions in `.github/workflows/pages.yml`, and build locally in the meantime.
+**If the site has stopped updating**, the GitHub Actions workflow has aged out, most likely a
+deprecated action version. It fails safe, the last good deploy stays up, so it is never urgent.
+Fix by bumping the `uses:` versions in `.github/workflows/pages.yml`, or run `python3 build.py`
+and open `site/index.html` locally in the meantime.
 
-**Due February 2027:** wrap Prop Joe's air layer around the 20th, and start feeding again in March.
-Both are dated on their pages.
+**Due in February 2027:** wrap Prop Joe's air layer around 20 February, and start feeding again in
+March. Both are on their pages with dates.
 
 ## Conventions
 
