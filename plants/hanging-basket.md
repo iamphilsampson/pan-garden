@@ -7,7 +7,11 @@ pot_cm: null
 pot_target_cm: null
 location: Hanging
 order: 6
-photos: [hanging-basket-bald-centre.jpg, rooted-pothos-cuttings-coiled-roots.jpg]
+photos:
+  - file: hanging-basket-bald-centre.jpg
+    date: 2026-08-14
+  - file: rooted-pothos-cuttings-coiled-roots.jpg
+    date: 2026-08-14
 status: done
 outstanding: []
 log:

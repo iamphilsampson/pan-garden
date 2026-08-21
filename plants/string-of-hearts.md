@@ -7,7 +7,9 @@ pot_cm: 9
 pot_target_cm: 10
 location: null
 order: 6
-photos: [string-of-hearts.jpg]
+photos:
+  - file: string-of-hearts.jpg
+    date: 2026-08-14
 status: outstanding
 outstanding:
   - text: "Move into the 10cm white pot already owned. **Nothing bigger**"

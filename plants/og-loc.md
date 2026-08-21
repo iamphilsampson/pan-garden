@@ -7,7 +7,13 @@ pot_cm: 26
 pot_target_cm: null
 location: null
 order: 2
-photos: [og-loc-monstera-whole.jpg, og-loc-monstera-top-down.jpg, og-loc-monstera-pole.jpg]
+photos:
+  - file: og-loc-monstera-whole.jpg
+    date: 2026-08-14
+  - file: og-loc-monstera-top-down.jpg
+    date: 2026-08-14
+  - file: og-loc-monstera-pole.jpg
+    date: 2026-08-14
 status: outstanding
 outstanding:
   - text: "**Move him out of that corner.** Free, takes a minute, and matters more than any stake"

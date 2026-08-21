@@ -7,7 +7,9 @@ pot_cm: 28
 pot_target_cm: 30
 location: null
 order: 1
-photos: [prop-joe-monstera-trunk-aerial-roots.jpg]
+photos:
+  - file: prop-joe-monstera-trunk-aerial-roots.jpg
+    date: 2026-08-14
 status: outstanding
 outstanding:
   - text: "**Feed him before the repot**, not after. Never within four to six weeks of root work"

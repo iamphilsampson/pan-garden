@@ -23,7 +23,10 @@ Per plant file format:
     pot_target_cm: 30            # optional, the pot it is moving to
     location: Living room
     order: 1                     # optional, sorts within a status group
-    photos: [prop-joe.jpg]       # filenames inside photos/
+    photos:                      # newest first is not required, build.py sorts
+      - file: prop-joe.jpg       # a filename inside photos/
+        date: 2026-08-14         # optional, groups the photo into a dated cycle
+        note: Before the repot   # optional caption
     status: outstanding          # outstanding | done | rehoming | skipped
     outstanding:
       - text: What still needs doing
@@ -218,7 +221,17 @@ h3 { font-size: 15px; margin: 26px 0 8px; }
   gap: 12px;
   margin: 0 0 30px;
 }
+.gallery figure { margin: 0; }
 .gallery a { display: block; }
+.gallery figcaption { color: var(--muted); font-size: 13px; margin-top: 6px; }
+h3.cycle {
+  font-size: 12px;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 24px 0 10px;
+}
+h3.cycle:first-of-type { margin-top: 0; }
 .gallery img {
   width: 100%;
   height: 260px;
@@ -484,11 +497,11 @@ def load_plants():
             key=lambda entry: to_date(entry.get("date")) or date.min,
             reverse=True,
         )
-        data["photos"] = [p for p in (data.get("photos") or []) if p]
+        data["photos"] = normalise_photos(data.get("photos"))
 
-        missing = [p for p in data["photos"] if not (PHOTOS_DIR / p).exists()]
-        for name in missing:
-            warn("%s lists a photo that is not in photos/: %s" % (path.name, name))
+        missing = [p for p in data["photos"] if not (PHOTOS_DIR / p["file"]).exists()]
+        for photo in missing:
+            warn("%s lists a photo that is not in photos/: %s" % (path.name, photo["file"]))
         data["photos"] = [p for p in data["photos"] if p not in missing]
 
         if path.stem.startswith("_collection"):
@@ -517,6 +530,26 @@ def normalise_actions(raw):
         else:
             actions.append(dict(item))
     return actions
+
+
+def normalise_photos(raw):
+    """Allow either a plain filename or a dict with a date and a caption.
+
+    Sorted newest first, so the most recent state of a plant leads.
+    """
+    photos = []
+    for item in raw or []:
+        if not item:
+            continue
+        if isinstance(item, str):
+            photo = {"file": item}
+        else:
+            photo = dict(item)
+        photo.setdefault("date", None)
+        photo.setdefault("note", None)
+        photos.append(photo)
+    photos.sort(key=lambda p: to_date(p.get("date")) or date.min, reverse=True)
+    return photos
 
 
 def last_actioned(plant):
@@ -568,8 +601,8 @@ def render_card(plant):
     photos = plant["photos"]
     if photos:
         thumb = '<img class="thumb" src="../photos/%s" alt="%s">' % (
-            html.escape(photos[0]),
-            html.escape(alt_text(photos[0])),
+            html.escape(photos[0]["file"]),
+            html.escape(alt_text(photos[0]["file"])),
         )
     else:
         thumb = '<div class="thumb-empty"></div>'
@@ -698,14 +731,44 @@ def render_log(plant):
     return '<ul class="log">\n%s\n</ul>' % "\n".join(items)
 
 
-def render_plant(plant):
-    gallery = ""
-    if plant["photos"]:
-        gallery = '<div class="gallery">\n%s\n</div>' % "\n".join(
-            '<a href="../photos/%s"><img src="../photos/%s" alt="%s"></a>'
-            % (html.escape(name), html.escape(name), html.escape(alt_text(name)))
-            for name in plant["photos"]
+def render_gallery(plant):
+    """Photos grouped into dated sessions, newest first. This is the timeline."""
+    if not plant["photos"]:
+        return ""
+
+    groups = []
+    for photo in plant["photos"]:
+        when = to_date(photo.get("date"))
+        if groups and groups[-1][0] == when:
+            groups[-1][1].append(photo)
+        else:
+            groups.append((when, [photo]))
+
+    out = []
+    for when, photos in groups:
+        out.append(
+            '<h3 class="cycle">%s</h3>' % html.escape(pretty_date(when) if when else "Undated")
         )
+        tiles = []
+        for photo in photos:
+            caption = ""
+            if photo.get("note"):
+                caption = '<figcaption>%s</figcaption>' % inline(str(photo["note"]))
+            tiles.append(
+                '<figure><a href="../photos/%s"><img src="../photos/%s" alt="%s"></a>%s</figure>'
+                % (
+                    html.escape(photo["file"]),
+                    html.escape(photo["file"]),
+                    html.escape(alt_text(photo["file"])),
+                    caption,
+                )
+            )
+        out.append('<div class="gallery">\n%s\n</div>' % "\n".join(tiles))
+    return "\n".join(out)
+
+
+def render_plant(plant):
+    gallery = render_gallery(plant)
 
     rows = [("What it is", html.escape(plant.get("species") or "Not identified"))]
     if plant.get("aka"):

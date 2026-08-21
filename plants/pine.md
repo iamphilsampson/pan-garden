@@ -7,7 +7,15 @@ pot_cm: 7.6
 pot_target_cm: null
 location: "Outside, on the ledge"
 order: 1
-photos: [pine-seedling-outside.jpg, pine-seedling-1.jpg, pine-seedling-needles.jpg, pine-seedling-pot-base.jpg]
+photos:
+  - file: pine-seedling-outside.jpg
+    date: 2026-08-14
+  - file: pine-seedling-1.jpg
+    date: 2026-08-14
+  - file: pine-seedling-needles.jpg
+    date: 2026-08-14
+  - file: pine-seedling-pot-base.jpg
+    date: 2026-08-14
 status: rehoming
 outstanding:
   - text: "**Secure it on that ledge.** A 7.6cm pot on a narrow sill will blow off. Wedge it or sit it in something heavier"

@@ -7,7 +7,9 @@ pot_cm: 10
 pot_target_cm: null
 location: "The dino pot"
 order: 3
-photos: [dino-golden-pothos.jpg]
+photos:
+  - file: dino-golden-pothos.jpg
+    date: 2026-08-14
 status: done
 outstanding: []
 log:

@@ -7,7 +7,11 @@ pot_cm: 16
 pot_target_cm: null
 location: null
 order: 5
-photos: [variegated-small-pothos.jpg, variegated-small-pothos-roots-through-holes.jpg]
+photos:
+  - file: variegated-small-pothos.jpg
+    date: 2026-08-14
+  - file: variegated-small-pothos-roots-through-holes.jpg
+    date: 2026-08-14
 status: outstanding
 outstanding:
   - text: "**Refresh in the same 16cm pot.** Ease it out, tease the outer roots loose, trim anything circling tightly, put it back"

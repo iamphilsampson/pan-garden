@@ -7,7 +7,13 @@ pot_cm: 18
 pot_target_cm: 21
 location: null
 order: 4
-photos: [variegated-big-pothos-whole-2.jpg, variegated-big-pothos-fenestrated.jpg, variegated-big-pothos-roots-through-base.jpg]
+photos:
+  - file: variegated-big-pothos-whole-2.jpg
+    date: 2026-08-21
+  - file: variegated-big-pothos-fenestrated.jpg
+    date: 2026-08-14
+  - file: variegated-big-pothos-roots-through-base.jpg
+    date: 2026-08-21
 status: outstanding
 outstanding:
   - text: "**Repot, 18cm to 21cm.** This reverses the earlier keep-the-pot line, see the note below"

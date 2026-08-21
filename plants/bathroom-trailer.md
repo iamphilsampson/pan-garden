@@ -7,7 +7,13 @@ pot_cm: 13
 pot_target_cm: null
 location: Bathroom
 order: 5
-photos: [bathroom-heartleaf-philodendron-1.jpg, bathroom-heartleaf-philodendron-2.jpg, bathroom-heartleaf-philodendron-runner.jpg]
+photos:
+  - file: bathroom-heartleaf-philodendron-1.jpg
+    date: 2026-08-14
+  - file: bathroom-heartleaf-philodendron-2.jpg
+    date: 2026-08-14
+  - file: bathroom-heartleaf-philodendron-runner.jpg
+    date: 2026-08-14
 status: done
 outstanding: []
 log:

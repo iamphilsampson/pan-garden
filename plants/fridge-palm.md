@@ -7,7 +7,9 @@ pot_cm: 12
 pot_target_cm: null
 location: "On the fridge"
 order: 1
-photos: [fridge-palm-dracaena-marginata.jpg]
+photos:
+  - file: fridge-palm-dracaena-marginata.jpg
+    date: 2026-08-14
 status: skipped
 outstanding: []
 log:

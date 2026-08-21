@@ -7,7 +7,11 @@ pot_cm: 11
 pot_target_cm: null
 location: null
 order: 2
-photos: [avocado-before-cutback.jpg, avocado-stem-nodes-above-kink.jpg]
+photos:
+  - file: avocado-before-cutback.jpg
+    date: 2026-08-14
+  - file: avocado-stem-nodes-above-kink.jpg
+    date: 2026-08-14
 status: done
 outstanding: []
 log:

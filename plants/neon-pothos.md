@@ -7,7 +7,9 @@ pot_cm: 13
 pot_target_cm: null
 location: null
 order: 4
-photos: [neon-pothos.jpg]
+photos:
+  - file: neon-pothos.jpg
+    date: 2026-08-14
 status: done
 outstanding: []
 log:

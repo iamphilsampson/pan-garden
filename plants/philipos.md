@@ -7,7 +7,11 @@ pot_cm: 25
 pot_target_cm: null
 location: null
 order: 3
-photos: [philipos-monstera-whole.jpg, philipos-monstera-base.jpg]
+photos:
+  - file: philipos-monstera-whole.jpg
+    date: 2026-08-14
+  - file: philipos-monstera-base.jpg
+    date: 2026-08-14
 status: outstanding
 outstanding:
   - text: "Top-dress with fresh mix and bury the surface root. **No repot**, 25cm is plenty"

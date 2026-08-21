@@ -7,7 +7,13 @@ pot_cm: 24
 pot_target_cm: null
 location: "1.5m from the window"
 order: 1
-photos: [strelitzia-1.jpg, strelitzia-2.jpg, strelitzia-base.jpg]
+photos:
+  - file: strelitzia-1.jpg
+    date: 2026-08-14
+  - file: strelitzia-2.jpg
+    date: 2026-08-14
+  - file: strelitzia-base.jpg
+    date: 2026-08-14
 status: done
 outstanding: []
 log:
