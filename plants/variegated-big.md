@@ -8,6 +8,9 @@ pot_target_cm: 21
 location: null
 order: 4
 photos:
+  - file: variegated-big-pothos-rootbound-ball.jpg
+    date: 2026-08-21
+    note: "Out of the pot. A solid mat of circling roots over the whole ball, barely any soil left visible"
   - file: variegated-big-pothos-whole-2.jpg
     date: 2026-08-21
   - file: variegated-big-pothos-fenestrated.jpg
@@ -18,6 +21,7 @@ status: outstanding
 outstanding:
   - text: "**Repot, 18cm to 21cm.** This reverses the earlier keep-the-pot line, see the note below"
     blocked_by: "a 21cm pot"
+  - text: "**Tease the root mat loose and trim the tightly circling roots** before it goes in. A ball that solid keeps growing in circles and never colonises the new soil, the same problem the propagation tubes had"
   - text: "Keep the metal rod. It does the job, no new pole needed"
   - text: "General mix: 3 parts coir or peat, 1 perlite, 1 orchid bark, plus granular or 15% worm castings. All of it is already in the house"
 log:
@@ -33,7 +37,7 @@ The plan said top-dress and keep the pot. That was wrong, and the photo of the b
 
 This is the second plant in the collection to genuinely need more root space, and the only one that overturned a decision already made. Everywhere else in this collection roots at the drainage holes meant it had run out of **fresh soil, not room**. Here there is a mat rather than a few strays, so it is room.
 
-18cm to 21cm is one step. Nothing larger, because a big volume of wet compost around the root ball is a rot risk even on a plant that wants a repot.
+Taking it out of the pot on 21 August confirmed it beyond doubt: the ball is a solid mat of circling roots with barely any soil visible. 18cm to 21cm is one step. Nothing larger, because a big volume of wet compost around the root ball is a rot risk even on a plant that wants a repot.
 
 ## Everything else stays
 

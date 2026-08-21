@@ -8,16 +8,22 @@ pot_target_cm: 30
 location: null
 order: 1
 photos:
+  - file: prop-joe-repotted-30cm.jpg
+    date: 2026-08-21
+    note: "In the 30cm terracotta. Chunky mix, bark and perlite and Seramis all visible"
+  - file: prop-joe-aerial-roots-on-surface.jpg
+    date: 2026-08-21
+    note: "Top down. Most of the aerial roots are lying **on** the surface rather than in it, which is what the moss layer fixes"
   - file: prop-joe-monstera-trunk-aerial-roots.jpg
     date: 2026-08-14
+    note: "Before. Bare trunk, aerial roots dangling in air"
 status: outstanding
 outstanding:
-  - text: "**Feed him before the repot**, not after. Never within four to six weeks of root work"
-    blocked_by: "liquid feed"
-  - text: "**Repot into the 30cm.** Bury 20 to 30cm of bare trunk and tuck every reachable aerial root into the compost. 2 to 3cm of gravel in the base for ballast, not polystyrene and not for drainage"
-    blocked_by: "about 6L of orchid bark"
-  - text: "Fit a full height pole that actually reaches his leaves, and wrap it in live moss"
-    blocked_by: "a tall pole"
+  - text: "**Wrap the pole in live moss** and bind it on with soft twine. Bare coir dries fast and aerial roots grip it poorly"
+  - text: "**Lay a moss layer over the surface roots**, leaving a gap around the trunk. Most of his aerial roots are sitting on top of the compost rather than in it, and on the surface they stay corky"
+  - text: "Tie him in at three heights with soft ties. Do not bend the stem, guide the new growth instead"
+  - text: "**No liquid feed until early October**, four to six weeks after root work. The worm castings in the mix carry him until then"
+    due: 2026-10-05
   - text: "**Wrap the air layer.** Moist sphagnum and plastic around a bump below the crown, using the aerial roots already there as a head start"
     due: 2027-02-20
   - text: "Cut the layer free once roots are visibly abundant, then pot it up. Realistically late April or May"
@@ -27,6 +33,8 @@ log:
     note: "Bottom-watered, 20 to 30 minutes, then taken out of the water. Sitting in it is how he rots"
   - date: 2026-08-21
     note: "**30cm pot bought**, and it is a tall one, so more bare trunk goes under the soil line than originally planned"
+  - date: 2026-08-21
+    note: "**Repotted into the 30cm terracotta.** Chunky aroid mix, 2 to 3cm of gravel in the base for ballast, bare trunk buried, coir pole set in against the stem"
 ---
 
 50 to 60cm of bare trunk, leaning at 45 degrees, dozens of aerial roots dangling in air, and a pole too short to even touch him. The one plant in the collection that genuinely needed a bigger pot. Long bare trunk, thick aerial roots doing nothing in the air, and compost so fine that water runs straight past it rather than soaking in. That is the watering problem, not a watering habit.

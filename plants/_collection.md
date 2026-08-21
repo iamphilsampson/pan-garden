@@ -3,8 +3,7 @@ name: Whole collection
 species: null
 status: outstanding
 outstanding:
-  - text: "**Start feeding, everything.** Nothing has been fed all year and the window shuts mid-September. This is the highest value job left"
-    blocked_by: "liquid houseplant feed"
+  - text: "**Start feeding, everything, and nothing is blocking it.** The liquid feed came in the 14 August haul. The window shuts mid-September, so roughly three weeks left. Strelitzia first, and **not Prop Joe**, who is now four to six weeks post root work"
   - text: "**Buy 6L of orchid bark.** The only thing still gating Prop Joe's repot. The 4L Westland is part bark and part Seramis, so it does not cover it, and the 30cm pot alone wants 6 to 7L at 40%"
   - text: "Check the litres on the two bags of universal potting soil. **Under 30L combined, grab one more.** Prop Joe's 30cm takes 15 to 18L on its own, before four top-dressings"
   - text: "Put a bucket or two out for rainwater. Free, and the surplus moss only stays alive on rainwater"
@@ -13,7 +12,7 @@ outstanding:
     due: 2027-02-20
 log:
   - date: 2026-08-14
-    note: "**First shop done.** Universal potting soil, 6L perlite, a 4L orchid mix and gravel are in, which unblocked all four top-dressings"
+    note: "**First shop done.** Universal potting soil, 6L perlite, a 4L orchid mix, gravel **and the liquid feed** are in, which unblocked all four top-dressings and the whole feeding programme"
   - date: 2026-08-05
     note: "Soil mixes made up"
   - date: 2026-08-05
@@ -26,7 +25,6 @@ log:
 
 The first shop is done, so this is what is genuinely left.
 
-- **Liquid houseplant feed.** The highest value thing on the list. Any general houseplant feed will do
 - **Slow-release granular feed**, mixed through the new compost so the repot and the top-dressings keep going without you remembering
 - **1 x 30cm pot** for Prop Joe. Bought on 21 August, and it is a tall one
 - **6L orchid bark.** The last thing gating Prop Joe
@@ -36,7 +34,7 @@ The first shop is done, so this is what is genuinely left.
 - **Soft plant ties**
 - **A compressed coir block if you can get one.** Not a blocker now, but bagged potting soil is dense and compacts, and Prop Joe's 30cm is the one pot where that hurts. A 5kg block makes about 70L, so it covers next year too
 
-**Already in the house, do not rebuy:** universal potting soil, 6L perlite, 4L orchid mix, gravel,
+**Already in the house, do not rebuy:** liquid feed, universal potting soil, 6L perlite, 4L orchid mix, gravel,
 garden twine, garden wire, worm castings, a crate of live moss, the 10cm white pot for the string
 of hearts.
 
