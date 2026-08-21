@@ -14,17 +14,15 @@ status: outstanding
 outstanding:
   - text: "Move into the 10cm white pot already owned. **Nothing bigger**"
   - text: "Gritty mix, roughly half perlite or grit. Not the general blend, which holds far too much water for this plant"
-    blocked_by: "coir or multipurpose base"
   - text: "**Cut the dead strands off entirely.** Check them for firm pea-sized tubers before binning, a tuber can be alive when the strand looks finished"
-  - text: "**Coil the bare strands back onto the soil and pin every loop** with a U-pin or bent garden wire, so the joints are touching damp soil"
-    blocked_by: "U-pins, or bent garden wire which is identical and cheaper"
+  - text: "**Coil the bare strands back onto the soil and pin every loop** with bent garden wire, so the joints are touching damp soil. Wire is the same thing as a U-pin and you already have it"
   - text: "Move it to the brightest spot in the flat. It wants more light than any other trailer here"
 log:
   - date: 2026-08-05
     note: "Assessed as the poorest plant in the collection. Strands almost entirely bare, several dried dead sections, and a white salt crust on bone-dry compacted soil"
 ---
 
-The worst plant here, and the one with the most upside.
+The worst plant here, and the one with the most upside. **Nothing is blocking it.** The 10cm pot, the perlite and the garden wire are all in the house, so this can be done today.
 
 ## Why 10cm and not bigger
 

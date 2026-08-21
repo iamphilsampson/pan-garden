@@ -19,7 +19,7 @@ log:
     note: "Identified as **Dracaena marginata, not a palm**. Slow, likes being snug, rots if overpotted, browns from tap water"
 ---
 
-Deliberately left alone. Not a job that needs doing.
+Deliberately left alone. Not a job that needs doing, though you can top-dress it if you feel like it.
 
 The only reason a 13cm was ever on the list was the pot cascade, and that cascade depended on the small variegated pothos moving up a size. It measured 16cm and stayed put, so nothing was freed. Buying a pot purely to complete a cascade would be buying a pot for its own sake.
 

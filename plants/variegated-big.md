@@ -19,8 +19,7 @@ outstanding:
   - text: "**Repot, 18cm to 21cm.** This reverses the earlier keep-the-pot line, see the note below"
     blocked_by: "a 21cm pot"
   - text: "Keep the metal rod. It does the job, no new pole needed"
-  - text: "General mix: 3 parts coir or peat, 1 perlite, 1 orchid bark, plus granular or 15% worm castings"
-    blocked_by: "coir or multipurpose base"
+  - text: "General mix: 3 parts coir or peat, 1 perlite, 1 orchid bark, plus granular or 15% worm castings. All of it is already in the house"
 log:
   - date: 2026-08-05
     note: "Marked as a top-dress only, keeping the same 18cm pot"

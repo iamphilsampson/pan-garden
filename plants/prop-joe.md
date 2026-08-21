@@ -14,8 +14,8 @@ status: outstanding
 outstanding:
   - text: "**Feed him before the repot**, not after. Never within four to six weeks of root work"
     blocked_by: "liquid feed"
-  - text: "**Repot into the 30cm.** Bury 20 to 30cm of bare trunk and tuck every reachable aerial root into the compost. Gravel in the base for ballast, not polystyrene"
-    blocked_by: "coir or multipurpose base, plus about 7L of bark"
+  - text: "**Repot into the 30cm.** Bury 20 to 30cm of bare trunk and tuck every reachable aerial root into the compost. 2 to 3cm of gravel in the base for ballast, not polystyrene and not for drainage"
+    blocked_by: "about 6L of orchid bark"
   - text: "Fit a full height pole that actually reaches his leaves, and wrap it in live moss"
     blocked_by: "a tall pole"
   - text: "**Wrap the air layer.** Moist sphagnum and plastic around a bump below the crown, using the aerial roots already there as a head start"
@@ -29,14 +29,14 @@ log:
     note: "**30cm pot bought**, and it is a tall one, so more bare trunk goes under the soil line than originally planned"
 ---
 
-The one plant in the collection that genuinely needed a bigger pot. Long bare trunk, thick aerial roots doing nothing in the air, and compost so fine that water runs straight past it rather than soaking in. That is the watering problem, not a watering habit.
+50 to 60cm of bare trunk, leaning at 45 degrees, dozens of aerial roots dangling in air, and a pole too short to even touch him. The one plant in the collection that genuinely needed a bigger pot. Long bare trunk, thick aerial roots doing nothing in the air, and compost so fine that water runs straight past it rather than soaking in. That is the watering problem, not a watering habit.
 
 ## The repot
 
 **This month, not April.** Burying 20 to 30cm of bare trunk and tucking the aerial roots into compost while it is still warm means those roots convert into working feeder roots before winter. By the time he is layered in spring he is a stronger plant to be taking a cutting from. It also fixes the watering and the wobble now rather than in nine months.
 
 - **Chunky aroid mix**: 2 parts coir or peat, 2 orchid bark, 1 perlite, plus granular feed or worm castings
-- **Gravel in the base.** Weight is the point. An earlier suggestion of polystyrene to reduce weight was wrong, he needs ballast
+- **2 to 3cm of gravel in the base.** Weight is the point, and it is ballast rather than drainage, so a thin layer does it. An earlier suggestion of polystyrene to reduce weight was wrong
 - **Not a plastic pot**, for the same reason. Glazed or terracotta
 - Bark is about 3L short for a 30cm mix, so hand-torn live moss makes up the difference. The 4L orchid mix is bark plus Seramis clay granules rather than pure bark, which is fine, the clay holds water and aroids like it
 

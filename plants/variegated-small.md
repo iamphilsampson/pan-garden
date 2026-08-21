@@ -14,8 +14,7 @@ photos:
     date: 2026-08-14
 status: outstanding
 outstanding:
-  - text: "**Refresh in the same 16cm pot.** Ease it out, tease the outer roots loose, trim anything circling tightly, put it back"
-    blocked_by: "fresh mix, no pot needed"
+  - text: "**Refresh in the same 16cm pot, and this can happen today.** Ease it out, tease the outer roots loose, trim anything circling tightly, put it back with fresh mix"
   - text: "Fit the Strelitzia's freed coir pole as a short starter support"
 log:
   - date: 2026-08-05

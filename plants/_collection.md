@@ -5,12 +5,15 @@ status: outstanding
 outstanding:
   - text: "**Start feeding, everything.** Nothing has been fed all year and the window shuts mid-September. This is the highest value job left"
     blocked_by: "liquid houseplant feed"
-  - text: "**Buy a bulk base**, a compressed coir block or peat-free multipurpose. About 30 litres all in. It gates every soil job"
-  - text: "Buy orchid bark, about 10L. Prop Joe's mix is roughly 3L short and perlite is tight at 6L"
+  - text: "**Buy 6L of orchid bark.** The only thing still gating Prop Joe's repot. The 4L Westland is part bark and part Seramis, so it does not cover it, and the 30cm pot alone wants 6 to 7L at 40%"
+  - text: "Check the litres on the two bags of universal potting soil. **Under 30L combined, grab one more.** Prop Joe's 30cm takes 15 to 18L on its own, before four top-dressings"
+  - text: "Put a bucket or two out for rainwater. Free, and the surplus moss only stays alive on rainwater"
   - text: "Rotate everything a quarter turn, then set a weekly repeating phone reminder. This is the habit that stops a repeat next August"
   - text: "Confirm the calendar reminder is set for Prop Joe's air layer"
     due: 2027-02-20
 log:
+  - date: 2026-08-14
+    note: "**First shop done.** Universal potting soil, 6L perlite, a 4L orchid mix and gravel are in, which unblocked all four top-dressings"
   - date: 2026-08-05
     note: "Soil mixes made up"
   - date: 2026-08-05
@@ -18,6 +21,32 @@ log:
   - date: 2026-08-05
     note: "Full audit done. Fourteen plants photographed, identified and measured"
 ---
+
+## Shopping, in the order worth buying it
+
+The first shop is done, so this is what is genuinely left.
+
+- **Liquid houseplant feed.** The highest value thing on the list. Any general houseplant feed will do
+- **Slow-release granular feed**, mixed through the new compost so the repot and the top-dressings keep going without you remembering
+- **1 x 30cm pot** for Prop Joe. Bought on 21 August, and it is a tall one
+- **6L orchid bark.** The last thing gating Prop Joe
+- **1 x 21cm pot** for the big variegated pothos. Added 21 August, after the roots turned up out of the base
+- **1 full-height pole core for Prop Joe, plus 3 or 4 extension sections.** Take one of OG loc's poles with you to match the brand. If nothing matches, 25mm plastic pipe or a stout cane works, because you are wrapping it in moss anyway
+- **1 long bamboo cane** to anchor OG loc's pole
+- **Soft plant ties**
+- **A compressed coir block if you can get one.** Not a blocker now, but bagged potting soil is dense and compacts, and Prop Joe's 30cm is the one pot where that hurts. A 5kg block makes about 70L, so it covers next year too
+
+**Already in the house, do not rebuy:** universal potting soil, 6L perlite, 4L orchid mix, gravel,
+garden twine, garden wire, worm castings, a crate of live moss, the 10cm white pot for the string
+of hearts.
+
+**Deliberately not buying:** moss or coir poles (the crate of moss covers it), sphagnum (same, and
+the air layer is February anyway), a 15cm pot (the small variegated is 16cm and staying), a 13cm
+pot (the Dracaena is happier snug), more gravel (2 to 3cm in Prop Joe's base is all the ballast he
+needs), horticultural grit (perlite and gravel cover it), U-pins (bent garden wire is the same
+thing and you have wire), a hoop or trellis (coiling the strands is the better fix), rooting
+hormone (these root unaided in two to three weeks), link stakes for the Strelitzia (only if the
+fans still splay now it has moved).
 
 ## Feeding order, once the feed is bought
 
