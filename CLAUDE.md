@@ -28,6 +28,16 @@ Statuses are `outstanding`, `done`, `rehoming`, `skipped`, and the index groups 
 order. `plants/_collection.md` holds jobs that apply to everything rather than one plant, and
 becomes the panel on the index plus `site/collection.html`.
 
+## History
+
+Git-backed since 21 August 2026, on `main`, no remote yet. The history is the point of the
+project, so **commit after any session that changes a plant's state.** One commit per session is
+plenty, and the message should say what actually happened to the plants rather than which files
+moved.
+
+`site/` is gitignored because `build.py` regenerates it. Photos are committed, they are the
+evidence.
+
 ## Files
 
 | Path | What it is |
